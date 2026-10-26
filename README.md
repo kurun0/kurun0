@@ -1,4 +1,4 @@
-### Hey, I'm [Your Name] 👋
+### Hey, I'm Kuruno 👋
 
 Software development (`Técnico de Programação`), driven by curiosity. I spend most of my time vibecoding random, useful tools, experimenting with hardware, and exploring cybersecurity.
 
